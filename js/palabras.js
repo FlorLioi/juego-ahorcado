@@ -1,0 +1,1 @@
+let palabras = ["mandarina", "radio", "campera", "helado", "cuaderno", "perro", "hamburguesa", "heladera", "dormitorio", "colectivo"];
